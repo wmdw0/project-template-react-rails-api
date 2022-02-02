@@ -1,0 +1,10 @@
+export const LANDING = '/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const BROWSE = '/browse';
+export const ADDPRODUCT = '/product';
+export const SEARCH = '/search';
+// export const SEARCHRESULT = '/search/result';
+export const ADDFUNDS = '/add';
+export const ADMIN = '/admin';
+export const PASSWORD_FORGET = '/pw-forget';

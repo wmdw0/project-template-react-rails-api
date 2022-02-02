@@ -1,0 +1,84 @@
+.trending {
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--twitter-background);
+    padding-right: 10px;
+    /* border: 1px solid black; */
+    min-width: 100%;
+    margin-top: 10%;
+    max-height: 100%;
+    
+    
+  }
+
+  .topBar {
+      display: flex;
+      justify-content:left;
+      align-items: center;
+      
+  }
+
+  .topic {
+      padding-right: 10px;
+      font-size: 12px;
+      /* border: 1px solid black; */
+  }
+
+  .status {
+    padding-right: 10px;
+    font-size: 12px;
+    /* border: 1px solid black; */
+    margin-left: 10px;
+}
+
+  .content {
+    display: flex;
+    /* justify-content: space-between; */
+    /* border: 1px solid black; */
+    min-width: 90%;
+    margin-top: 0px;
+}
+
+  .contentLeft {
+    /* display: flex;
+    justify-content: space-between; */
+    /* border: 1px solid black; */
+    min-width: 70%;
+    padding-right: 10px;
+   
+    /* margin-right: 25%; */
+}
+
+.title {
+    padding-right: 10px;
+    font-size: 16px;
+    margin-top: 5px;
+    /* border: 1px solid black; */
+}
+
+.desc {
+    padding-right: 0px;
+    font-size: 12px;
+    margin-top: 5px;
+    /* border: 1px solid black; */
+}
+
+.contentRight {
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid black; */
+    max-width: 30%;
+}
+.image {
+  min-width: 80px;
+    max-height: 80px;
+    object-fit: cover;
+    border-radius: 12.5%;
+
+}
+  img {
+    /* max-width: 100%; */
+    max-width: 80px;
+    max-height: 80px;
+    object-fit: cover;
+    border-radius: 12.5%;
+  }

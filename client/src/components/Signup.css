@@ -1,0 +1,11 @@
+.signup {
+    margin-top: '10px';
+}
+
+.signinform {
+    height: 50%;
+    min-width: 50%;
+    border: 1px solid black;
+    text-align: center;
+    
+}
