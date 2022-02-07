@@ -1,3 +1,10 @@
+
+This project was bootstrapped with Create React App.
+
+# Available Scripts
+
+
+
 # FlatIron School - Phase 4 Project
 Phase 4 Project for FlatIron School SE Program
 
